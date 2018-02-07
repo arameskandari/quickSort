@@ -1,10 +1,8 @@
-package quickSort;
+package com.quickSort;
 
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
 import org.junit.runner.notification.Failure;
-
-import primeNumber.PrimeNumberTest;
 
 public class TestRunner {
 	public static void main(String[] args) {
